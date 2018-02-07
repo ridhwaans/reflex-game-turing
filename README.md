@@ -1,6 +1,6 @@
 # reflex-game-turing
 
-![typemaster](https://github.com/ridhwaans/typemaster/raw/master/images/typemaster.png)
+![typemaster](https://github.com/ridhwaans/reflex-game-turing/raw/master/images/typemaster.png)
 
 ## Synopsis
 
